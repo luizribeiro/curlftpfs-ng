@@ -2,6 +2,7 @@
 
 0.9.3-next:
  * fix option `no_verify_hostname' with more recent curl versions
+ * add option to specify netrc file path
 
 0.9.3:
  * migrate from cvs to git
